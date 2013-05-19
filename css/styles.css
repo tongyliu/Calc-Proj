@@ -1,0 +1,23 @@
+#topic-header {
+    margin: 0.8em 10% !important;
+}
+
+.ui-header .ui-btn-left {
+    margin-top: 0.23em
+}
+
+.ui-header .ui-btn-right {
+    margin-top: 0.23em
+}
+
+.ui-dialog .ui-dialog-contain { 
+	margin-top: 0 
+}
+
+#dialog-content {
+	padding-top: 1.8em
+}
+
+.eqn {
+    margin: 0.5em 0px;
+}
